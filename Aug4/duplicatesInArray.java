@@ -1,4 +1,4 @@
-package Aug5;
+package Aug4;
 import java.util.*;
 public class duplicatesInArray {
     public static void main(String[] args) {

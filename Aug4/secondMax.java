@@ -1,4 +1,4 @@
-package Aug5;
+package Aug4;
 public class secondMax {
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5};
