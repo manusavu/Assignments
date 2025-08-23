@@ -1,0 +1,184 @@
+.container{
+    background-image: url("whatsappbg.jpg");
+    width:350px;
+    height:450px;
+    border:2px solid black;
+    margin-left:550px;
+    margin-top:100px;
+    border-radius: 22px;
+    overflow: scroll;
+    scrollbar-width: 0px;
+    
+}
+.head{
+    background-color: blueviolet;
+    width: 350px;
+    border-radius: 20px 20px 0px 0px;
+    position:fixed;
+    height: 50px;
+}
+i{
+    font-size:25px;
+    margin-top: 50px;
+    color: white;
+}
+img{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+}
+
+.arrow{
+    
+     /* margin-left: 4px;  */
+     display: inline-block;
+     /* border:2px solid black; */
+     position:absolute;
+     top:15px;
+     left:10px;
+     
+}
+.profile{
+    display: inline-block;
+    /* margin-top::8px; */
+    /* border:2px solid black; */
+    position:absolute;
+    /* margin-left: 4px; */
+    top:5px;
+    left:40px;
+
+}
+.name{
+    display: inline-block;
+    /* border:2px solid black; */
+    position:absolute;
+    top:2px;
+    left:90px;
+    
+}
+.video{
+    display: inline-block;
+    margin-left:40px;
+    /* border:2px solid black; */
+    position:absolute;
+    top:15px;
+    left:200px;
+}
+.call{
+    display: inline-block;
+    margin-left:20px;
+    /* border:2px solid black; */
+    position:absolute;
+    top:15px;
+    left:270px;
+}
+.dots{
+    display: inline-block;
+    margin-left:20px;
+    /* border:2px solid black; */
+    position:absolute;
+    top:15px;
+    left:300px;
+}
+.footer{
+    background-color: rgb(72, 69, 74);
+    width: 350px;
+    border-radius: 20px 20px 20px 20px;
+    position:fixed;
+    height: 50px;
+    bottom:143px;
+}
+input{
+    /* border-radius: 15px;
+     */
+     border:none;
+     outline:none;
+     font-size: 15px;
+     background-color: rgb(72, 69, 74);
+}
+.child-1{
+    display:inline-block;
+    
+     /* border:2px solid black; */
+     position:absolute;
+     top:15px;
+     left:10px;
+}
+.child-2{
+    display:inline-block;
+     /* border:2px solid black; */
+     position:absolute;
+     top:15px;
+     left:40px;
+    
+}
+.child-3{
+    display:inline-block;
+     /* border:2px solid black; */
+     position:absolute;
+     top:15px;
+     left:200px;
+}
+.child-4{
+    display:inline-block;
+     /* border:2px solid black; */
+     position:absolute;
+     top:15px;
+     left:230px;
+}
+.child-5{
+    display:inline-block;
+     /* border:2px solid black; */
+     position:absolute;
+     top:15px;
+     left:265px;
+}
+.child-6{
+    width:35px;
+    height:35px;
+    display:inline-block;
+     border:2px solid black;
+     background-color: rgb(17, 159, 17);
+     border-radius: 50%;
+     position:absolute;
+     top:10px;
+     left:300px;
+     bottom: -20px;
+}
+.bi-mic-fill{
+    
+    /* margin-bottom: 5px; */
+    margin-left: 5px;
+    font-size: 20px;
+    color:black;
+}
+.messages{
+    margin-top: 50px;
+}
+p{
+    border:2px solid black;
+    border-radius: 5px;
+    color:white;
+}
+.right p{
+    text-align: right;
+    width:fit-content;
+    background-color: green;
+      margin-left: auto;
+  margin-right: 0;
+  
+    
+}
+.left p{
+    text-align: left;
+    width:fit-content;
+    background-color:  rgb(72, 69, 74);
+}
+.date p{
+    width:fit-content;
+    background-color: bisque;
+    color:black;
+    /* text-align: center; */
+    margin-left: 140px;
+   
+}
